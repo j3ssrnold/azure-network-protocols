@@ -8,7 +8,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups]
+<!--- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups]/ !--->
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,12 +25,18 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create Virtual Machines within Azure
+- Wireshark Installation
+- Using Command Prompt and Perpetual Ping
+- Network Security Group Usage for flow of traffic
+- Observe Various Types of Network Traffic
 
 <h2>Actions and Observations</h2>
+
+<h3>Step 1: Create your Resources within Microsoft Azure.</h3>
+
+-  Create a Resource Group.
+    -  Go to the [Azure Portal](https://portal.azure.com) --> Click Resource Group --> Name Your Group --> Click Review + Create.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
